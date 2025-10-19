@@ -1,0 +1,4 @@
+baseURL = 'https://mattn.qzz.io/'
+languageCode = 'ja-jp'
+title = 'ふがふがゲフンゲフン'
+theme = 'ananke'
