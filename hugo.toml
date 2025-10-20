@@ -1,4 +1,112 @@
-baseURL = 'https://mattn.qzz.io/'
-languageCode = 'ja-jp'
-title = 'ふがふがゲフンゲフン'
-theme = 'ananke'
+baseURL = "https://mattn.qzz.io/"
+title = "うでたまご"
+#paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "うでたまご"
+description = "うでたまご description"
+keywords = [ "Blog", "Portfolio", "PaperMod" ]
+author = "Me"
+images = [ "https://pbs.twimg.com/profile_images/1689171138197467136/T-T6lJqs_400x400.jpg" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
+
+  [params.label]
+  text = "Home"
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = false
+  title = "うでたまご"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "うでたまご 🥚"
+  Content = "おおきに！わしやで"
+
+  [[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/mattn_jp"
+
+  [[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com/users/720391/mattn"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/mattn"
+
+#[params.analytics.google]
+#SiteVerificationTag = "XYZabc"
+#
+#[params.analytics.bing]
+#SiteVerificationTag = "XYZabc"
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "mattn.qzz.io"
+name = "mattn.qzz.io"
+url = "https://mattn.qzz.io"
+weight = 30
+
+[markup.highlight]
+noClasses = false
+
