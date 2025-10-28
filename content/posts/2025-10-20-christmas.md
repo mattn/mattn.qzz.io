@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 20 - christmas"
 date: 2025-10-20
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

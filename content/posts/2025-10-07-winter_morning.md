@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 07 - winter-morning"
 date: 2025-10-07
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

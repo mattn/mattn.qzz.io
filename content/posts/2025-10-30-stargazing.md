@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 30 - stargazing"
 date: 2025-10-30
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

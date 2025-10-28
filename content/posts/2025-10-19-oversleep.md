@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 19 - oversleep"
 date: 2025-10-19
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

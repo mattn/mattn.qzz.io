@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 03 - breakfast"
 date: 2025-10-03
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 02 - rainy-walk"
 date: 2025-10-02
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

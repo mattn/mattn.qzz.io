@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 09 - childhood"
 date: 2025-10-09
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

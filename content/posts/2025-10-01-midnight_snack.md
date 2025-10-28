@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 01 - midnight-snack"
 date: 2025-10-01
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。

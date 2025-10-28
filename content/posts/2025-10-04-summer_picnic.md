@@ -1,6 +1,8 @@
 ---
 title: "うでたまごのエピソード 04 - summer-picnic"
 date: 2025-10-04
+categories: [日常]
+tags: [うでたまご]
 ---
 
 おおきに！ わしやで。
