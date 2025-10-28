@@ -110,3 +110,7 @@ weight = 30
 [markup.highlight]
 noClasses = false
 
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
+    respectDoNotTrack = false
