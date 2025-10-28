@@ -39,15 +39,15 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = "/favicon.png"
+  favicon16x16 = "/favicon.png"
+  favicon32x32 = "/favicon.png"
+  apple_touch_icon = "/favicon.png"
+  safari_pinned_tab = "/favicon.png"
 
   [params.label]
   text = "Home"
-  icon = "/apple-touch-icon.png"
+  icon = "/favicon.png"
   iconHeight = 35
 
   [params.profileMode]
