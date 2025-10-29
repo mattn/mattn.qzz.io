@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 021 - golf-share"
+title: "うでたまごのエピソード 021 - kodomo-natsukashi"
 date: 2025-10-21
 categories: [日常]
 tags: [うでたまご]

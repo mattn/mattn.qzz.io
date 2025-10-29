@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 023 - band"
+title: "うでたまごのエピソード 023 - bijutsu-kaigai"
 date: 2025-10-23
 categories: [日常]
 tags: [うでたまご]

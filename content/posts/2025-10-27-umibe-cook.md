@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 027 - bath-share"
+title: "うでたまごのエピソード 027 - umibe-cook"
 date: 2025-10-27
 categories: [日常]
 tags: [うでたまご]

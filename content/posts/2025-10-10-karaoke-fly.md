@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 010 - gym-fail"
+title: "うでたまごのエピソード 010 - karaoke-fly"
 date: 2025-10-10
 categories: [日常]
 tags: [うでたまご]

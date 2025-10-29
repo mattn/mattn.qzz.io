@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 015 - beach-fail"
+title: "うでたまごのエピソード 015 - kekkon-poka"
 date: 2025-10-15
 categories: [日常]
 tags: [うでたまご]

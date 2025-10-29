@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 011 - movie-share"
+title: "うでたまごのエピソード 011 - shinnen-muse"
 date: 2025-10-11
 categories: [日常]
 tags: [うでたまご]

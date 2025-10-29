@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 014 - book-lucky"
+title: "うでたまごのエピソード 014 - toshokan-spill"
 date: 2025-10-14
 categories: [日常]
 tags: [うでたまご]

@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 003 - breakfast-fail"
+title: "うでたまごのエピソード 003 - hon-yabure"
 date: 2025-10-03
 categories: [日常]
 tags: [うでたまご]

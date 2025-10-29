@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 004 - summer-picnic-fun"
+title: "うでたまごのエピソード 004 - gakkou-yabure"
 date: 2025-10-04
 categories: [日常]
 tags: [うでたまご]

@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 016 - birthday-fun"
+title: "うでたまごのエピソード 016 - eiga-kaigai"
 date: 2025-10-16
 categories: [日常]
 tags: [うでたまご]

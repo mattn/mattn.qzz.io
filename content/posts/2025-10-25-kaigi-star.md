@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 025 - bbq-fun"
+title: "うでたまごのエピソード 025 - kaigi-star"
 date: 2025-10-25
 categories: [日常]
 tags: [うでたまご]

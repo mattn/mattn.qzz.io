@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 005 - izakaya-lucky"
+title: "うでたまごのエピソード 005 - bijutsu-share"
 date: 2025-10-05
 categories: [日常]
 tags: [うでたまご]

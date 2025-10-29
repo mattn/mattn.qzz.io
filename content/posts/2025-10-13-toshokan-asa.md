@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 013 - festival"
+title: "うでたまごのエピソード 013 - toshokan-asa"
 date: 2025-10-13
 categories: [日常]
 tags: [うでたまご]

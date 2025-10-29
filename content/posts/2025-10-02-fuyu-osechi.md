@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 002 - rainy-walk"
+title: "うでたまごのエピソード 002 - fuyu-osechi"
 date: 2025-10-02
 categories: [日常]
 tags: [うでたまご]

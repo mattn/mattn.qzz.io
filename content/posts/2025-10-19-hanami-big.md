@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 019 - oversleep"
+title: "うでたまごのエピソード 019 - hanami-big"
 date: 2025-10-19
 categories: [日常]
 tags: [うでたまご]

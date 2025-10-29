@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 009 - childhood"
+title: "うでたまごのエピソード 009 - yama-nikomi"
 date: 2025-10-09
 categories: [日常]
 tags: [うでたまご]

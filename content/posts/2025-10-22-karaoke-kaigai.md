@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 022 - rainy-day"
+title: "うでたまごのエピソード 022 - karaoke-kaigai"
 date: 2025-10-22
 categories: [日常]
 tags: [うでたまご]

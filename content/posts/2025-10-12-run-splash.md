@@ -1,5 +1,5 @@
 ---
-title: "うでたまごのエピソード 012 - work-fail"
+title: "うでたまごのエピソード 012 - run-splash"
 date: 2025-10-12
 categories: [日常]
 tags: [うでたまご]
